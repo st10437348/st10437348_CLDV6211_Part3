@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2KZaCz7uTrs=",
+  "dgSpecHash": "os7JuNKwDSw=",
   "success": true,
-  "projectFilePath": "C:\\Desktop\\st10437348_cldv6211_Part1\\part-1-poe-st10437348\\EventBookSyst\\EventBookSyst\\EventBookSyst.csproj",
+  "projectFilePath": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\EventBookSyst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexo\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\alexo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

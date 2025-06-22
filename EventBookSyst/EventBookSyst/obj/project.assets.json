@@ -7801,11 +7801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desktop\\st10437348_cldv6211_Part1\\part-1-poe-st10437348\\EventBookSyst\\EventBookSyst\\EventBookSyst.csproj",
+      "projectUniqueName": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\EventBookSyst.csproj",
       "projectName": "EventBookSyst",
-      "projectPath": "C:\\Desktop\\st10437348_cldv6211_Part1\\part-1-poe-st10437348\\EventBookSyst\\EventBookSyst\\EventBookSyst.csproj",
+      "projectPath": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\EventBookSyst.csproj",
       "packagesPath": "C:\\Users\\alexo\\.nuget\\packages\\",
-      "outputPath": "C:\\Desktop\\st10437348_cldv6211_Part1\\part-1-poe-st10437348\\EventBookSyst\\EventBookSyst\\obj\\",
+      "outputPath": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
