@@ -191,7 +191,7 @@ namespace EventBookSyst.Controllers
 
         private async Task<string> UploadImageToBlobAsync(IFormFile imageFile)
         {
-
+            var connectionString = "";
             var containerName = "cldv6211imagecontainer";
 
             var blobServiceClient = new BlobServiceClient(connectionString);
