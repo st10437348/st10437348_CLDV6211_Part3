@@ -64,6 +64,7 @@ namespace EventBookSyst.Controllers
         {
             var eventData = await _context.Event
                 .Include(e => e.Venue)
+                .Include(e => e.EventType)
                 .FirstOrDefaultAsync(m => m.Id == id);
 
             if (eventData == null)

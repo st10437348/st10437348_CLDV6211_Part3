@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|c:\\desktop\\st10437348_cldv6211_part3\\eventbooksyst\\eventbooksyst\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|solutionrelative:eventbooksyst\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VenueController.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Controllers\\VenueController.cs",
-              "RelativeDocumentMoniker": "EventBookSyst\\Controllers\\VenueController.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Controllers\\VenueController.cs",
-              "RelativeToolTip": "EventBookSyst\\Controllers\\VenueController.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAYwMEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T07:53:36.837Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

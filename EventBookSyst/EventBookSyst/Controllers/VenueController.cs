@@ -191,7 +191,7 @@ namespace EventBookSyst.Controllers
 
         private async Task<string> UploadImageToBlobAsync(IFormFile imageFile)
         {
-            var connectionString = "";
+            var connectionString = "DefaultEndpointsProtocol=https;AccountName=eventeasestorageao;AccountKey=YwTEMPAvQlw4Myjda24gF1qNVSfvgCREtnmdZHEPZFmfF1+rgyfvOXIO75ZA9kutN4QLBYJzTSHR+AStHTPI3A==;EndpointSuffix=core.windows.net";
             var containerName = "cldv6211imagecontainer";
 
             var blobServiceClient = new BlobServiceClient(connectionString);

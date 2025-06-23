@@ -40,7 +40,7 @@
         <div class="col-md-3">
             <label>Venue</label>
             <select name="venueId" class="form-control">
-                <option value="">- All Venues --</option>
+                <option value="">-- All Venues --</option>
                 @foreach (var venue in ViewBag.Venue)
                 {
                     <option value="@venue.Id">@venue.Name</option>
