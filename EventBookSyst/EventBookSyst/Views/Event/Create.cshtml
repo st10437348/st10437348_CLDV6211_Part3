@@ -39,7 +39,7 @@
                 <div class="form-group">
                     <label asp-for="EventTypeID" class="control-label"></label>
                     <select asp-for="EventTypeID" class="form-control">
-                        <option value="">- Selcet Venue --</option>
+                        <option value="">- Selcet EventType --</option>
                         @foreach (var eventType in ViewBag.EventType)
                         {
                             <option value="@eventType.EventTypeID">@eventType.Name</option>

@@ -5,22 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|c:\\desktop\\st10437348_cldv6211_part3\\eventbooksyst\\eventbooksyst\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|solutionrelative:eventbooksyst\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|c:\\desktop\\st10437348_cldv6211_part3\\eventbooksyst\\eventbooksyst\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|solutionrelative:eventbooksyst\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|c:\\desktop\\st10437348_cldv6211_part3\\eventbooksyst\\eventbooksyst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|solutionrelative:eventbooksyst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|c:\\desktop\\st10437348_cldv6211_part3\\eventbooksyst\\eventbooksyst\\controllers\\eventcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|solutionrelative:eventbooksyst\\controllers\\eventcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|c:\\desktop\\st10437348_cldv6211_part3\\eventbooksyst\\eventbooksyst\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA66E2CF-CF17-4C0C-8CFF-555B13DA755A}|EventBookSyst\\EventBookSyst.csproj|solutionrelative:eventbooksyst\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,44 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "EventBookSyst\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "EventBookSyst\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:17:25.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EventBookSyst\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EventBookSyst\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:17:22.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventType.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Models\\EventType.cs",
-              "RelativeDocumentMoniker": "EventBookSyst\\Models\\EventType.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Models\\EventType.cs",
-              "RelativeToolTip": "EventBookSyst\\Models\\EventType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T14:57:55.124Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -76,22 +24,10 @@
               "RelativeDocumentMoniker": "EventBookSyst\\Controllers\\VenueController.cs",
               "ToolTip": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Controllers\\VenueController.cs",
               "RelativeToolTip": "EventBookSyst\\Controllers\\VenueController.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAYwMEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAYwMEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T14:54:31.483Z",
+              "WhenOpened": "2025-06-23T07:53:36.837Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventController1.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Controllers\\EventController1.cs",
-              "RelativeDocumentMoniker": "EventBookSyst\\Controllers\\EventController1.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_CLDV6211_Part3\\EventBookSyst\\EventBookSyst\\Controllers\\EventController1.cs",
-              "RelativeToolTip": "EventBookSyst\\Controllers\\EventController1.cs",
-              "ViewState": "AgIAALEAAAAAAAAAAAAgwGgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T09:55:31.665Z"
             }
           ]
         }

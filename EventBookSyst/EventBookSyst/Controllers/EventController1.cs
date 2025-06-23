@@ -12,15 +12,15 @@ namespace EventBookSyst.Controllers
         {
             _context = context;
         }
-        public async Task<IActionResult> Index(string searchType, int? venueId, DateTime? startDate, DateTime? endDate)
+        public async Task<IActionResult> Index(string searchType, int? venueId, int? eventTypeID, DateTime? startDate, DateTime? endDate)
         {
             var eventDataQuery = _context.Event
                 .Include(e => e.Venue)
                 .Include(e => e.EventType)
                 .AsQueryable();
 
-            if (!string.IsNullOrEmpty(searchType))
-                eventDataQuery = eventDataQuery.Where(e => e.EventType.Name == searchType);
+            if (eventTypeID.HasValue)
+                eventDataQuery = eventDataQuery.Where(e => e.EventTypeID == eventTypeID);
 
             if (venueId.HasValue)
                 eventDataQuery = eventDataQuery.Where(e => e.VenueId == venueId);
